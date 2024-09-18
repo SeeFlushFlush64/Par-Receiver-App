@@ -1,5 +1,6 @@
 # Par-Receiver-App
 ![Static Badge](https://img.shields.io/badge/Flutter-blue) ![Static Badge](https://img.shields.io/badge/Firebase-yellow) 
+
 CRUD Mobile Application for registering COD and Non-COD parcels. Registered parcels will be the basis of transaction for the Par-Receiver machine.
 
 Warning: I have deleted my firebase_options.dart and google_services.json since they include sensitive information (secrets).
