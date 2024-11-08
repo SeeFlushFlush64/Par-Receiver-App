@@ -51,13 +51,31 @@ This project allowed me to gain hands-on experience with mobile app development,
 
 Here are some images of the Par-Receiver App in action:
 
-### Parcel Registration
+![mockup-login](https://github.com/user-attachments/assets/f848b1ee-8c2e-4259-aec3-db4e34ef8b03)
 
-![Parcel Registration](path-to-your-image.jpg)
+![1720020342362](https://github.com/user-attachments/assets/06c2f302-e552-4940-b84d-341c9c37e2e1)
 
-### Parcel Proof (ESP32 Camera Photo)
+![mockup-dashboard](https://github.com/user-attachments/assets/6fcfa574-e419-4878-a5f7-1e3d1ddbea5d)
 
-![Parcel Proof](path-to-your-image.jpg)
+![1720012113383](https://github.com/user-attachments/assets/e185d190-a3ec-4478-947d-24864e0b2b45)
+
+![1720012826696](https://github.com/user-attachments/assets/720b107a-23bd-43b5-b69d-e01595ef3f7c)
+
+![1720012826671](https://github.com/user-attachments/assets/7f7847e8-2d7d-4e7e-b8bc-3f8f6ff9ba2d)
+
+![1720012826720](https://github.com/user-attachments/assets/12bb3a3b-c484-4339-98fc-4e23eeaba2d7)
+
+![1720013001782](https://github.com/user-attachments/assets/d231ec02-3115-4e88-a0ce-1d169e4decba)
+
+![1720019918040](https://github.com/user-attachments/assets/7a64bcb4-559b-4fdf-a831-e06cdac6aafd)
+
+![1720020137287](https://github.com/user-attachments/assets/8c7bdd55-2d57-4f48-b4b7-d43bd4532856)
+
+![1720020137259](https://github.com/user-attachments/assets/1ea8b9f1-65dc-484b-ae65-67c44b60d760)
+
+![mockup-about](https://github.com/user-attachments/assets/944af4d6-b6a2-4443-8f85-aeaee3d2549f)
+
+
 
 ---
 
