@@ -67,9 +67,9 @@ Here are some images of the Par-Receiver App in action:
 
 ![Pixel 8 Pro Mockup Obsidian_E](https://github.com/user-attachments/assets/e65b09be-78bf-41a5-82b9-676a5d359ad6)
 
-![1720019918040](https://github.com/user-attachments/assets/7a64bcb4-559b-4fdf-a831-e06cdac6aafd)
+![Pixel 8 Pro Mockup Obsidian_F](https://github.com/user-attachments/assets/ea428ccc-500f-4928-a1d5-d1e5b400672d)
 
-![1720020137287](https://github.com/user-attachments/assets/8c7bdd55-2d57-4f48-b4b7-d43bd4532856)
+![Pixel 8 Pro Mockup Obsidian_G](https://github.com/user-attachments/assets/78a45a3e-43e0-4067-a452-89850303676f)
 
 ![1720020137259](https://github.com/user-attachments/assets/1ea8b9f1-65dc-484b-ae65-67c44b60d760)
 
