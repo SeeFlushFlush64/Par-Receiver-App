@@ -51,35 +51,61 @@ This project allowed me to gain hands-on experience with mobile app development,
 
 Here are some images of the Par-Receiver App in action:
 
-![mockup-login](https://github.com/user-attachments/assets/f848b1ee-8c2e-4259-aec3-db4e34ef8b03)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/f848b1ee-8c2e-4259-aec3-db4e34ef8b03" alt="mockup-login" width="500">
+</div>
 
-![Pixel 8 Pro Mockup Obsidian](https://github.com/user-attachments/assets/a03776a6-87c7-4ac8-a04d-97848e9c94eb)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/a03776a6-87c7-4ac8-a04d-97848e9c94eb" alt="Pixel 8 Pro Mockup Obsidian" width="500">
+</div>
 
-![mockup-dashboard](https://github.com/user-attachments/assets/6fcfa574-e419-4878-a5f7-1e3d1ddbea5d)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/6fcfa574-e419-4878-a5f7-1e3d1ddbea5d" alt="mockup-dashboard" width="500">
+</div>
 
-![Pixel 8 Pro Mockup Obsidian_A](https://github.com/user-attachments/assets/82a9f7cd-eeec-432e-b3c3-8b91cdb8eb6a)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/82a9f7cd-eeec-432e-b3c3-8b91cdb8eb6a" alt="Pixel 8 Pro Mockup Obsidian_A" width="500">
+</div>
 
-![bago-a-c](https://github.com/user-attachments/assets/d5df80d9-d1d9-4616-8a3a-75afd8e7ba87)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/d5df80d9-d1d9-4616-8a3a-75afd8e7ba87" alt="bago-a-c" width="500">
+</div>
 
-![Pixel 8 Pro Mockup Obsidian_mop](https://github.com/user-attachments/assets/983596b2-c761-4e53-b2e3-6b96b1ca6131)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/983596b2-c761-4e53-b2e3-6b96b1ca6131" alt="Pixel 8 Pro Mockup Obsidian_mop" width="500">
+</div>
 
-![Pixel 8 Pro Mockup Obsidian_B](https://github.com/user-attachments/assets/6f54085c-c592-4969-8359-89dd6e87d34a)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/6f54085c-c592-4969-8359-89dd6e87d34a" alt="Pixel 8 Pro Mockup Obsidian_B" width="500">
+</div>
 
-![Pixel 8 Pro Mockup Obsidian_C](https://github.com/user-attachments/assets/131f5e57-d2bf-4e90-a60a-4aac0a37244d)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/131f5e57-d2bf-4e90-a60a-4aac0a37244d" alt="Pixel 8 Pro Mockup Obsidian_C" width="500">
+</div>
 
-![Pixel 8 Pro Mockup Obsidian_D](https://github.com/user-attachments/assets/11d2a328-78eb-4095-8963-50b41309a423)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/11d2a328-78eb-4095-8963-50b41309a423" alt="Pixel 8 Pro Mockup Obsidian_D" width="500">
+</div>
 
-![Pixel 8 Pro Mockup Obsidian_E](https://github.com/user-attachments/assets/e65b09be-78bf-41a5-82b9-676a5d359ad6)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/e65b09be-78bf-41a5-82b9-676a5d359ad6" alt="Pixel 8 Pro Mockup Obsidian_E" width="500">
+</div>
 
-![Pixel 8 Pro Mockup Obsidian_F](https://github.com/user-attachments/assets/ea428ccc-500f-4928-a1d5-d1e5b400672d)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/ea428ccc-500f-4928-a1d5-d1e5b400672d" alt="Pixel 8 Pro Mockup Obsidian_F" width="500">
+</div>
 
-![Pixel 8 Pro Mockup Obsidian_G](https://github.com/user-attachments/assets/78a45a3e-43e0-4067-a452-89850303676f)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/78a45a3e-43e0-4067-a452-89850303676f" alt="Pixel 8 Pro Mockup Obsidian_G" width="500">
+</div>
 
-![Pixel 8 Pro Mockup Obsidian-H](https://github.com/user-attachments/assets/810f07d6-47f5-4ae6-8cd3-cb3f022f821f)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/810f07d6-47f5-4ae6-8cd3-cb3f022f821f" alt="Pixel 8 Pro Mockup Obsidian-H" width="500">
+</div>
 
-![mockup-about](https://github.com/user-attachments/assets/944af4d6-b6a2-4443-8f85-aeaee3d2549f)
-
-
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/944af4d6-b6a2-4443-8f85-aeaee3d2549f" alt="mockup-about" width="500">
+</div>
 
 ---
 
