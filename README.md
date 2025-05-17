@@ -6,6 +6,12 @@
 
 The **Par-Receiver Mobile App** allows users to register and manage COD and Non-COD parcels. Registered parcels serve as the basis for transactions with the Par-Receiver machine.
 
+This project works alongside a set of microcontrollers that handle hardware operations within the Par-Receiver machine. You can check out their individual sketches here:
+
+- 📦 **[Arduino Mega Sketch](https://github.com/SeeFlushFlush64/Par-Receiver-Arduino-Sketches)**
+- 📶 **[ESP32 Main Controller](https://github.com/SeeFlushFlush64/Par-Receiver-ESP32-Main)**
+- 🖥️ **[ESP32 Sub Controller](https://github.com/SeeFlushFlush64/Par-Receiver-ESP32-Sub)**
+- 📸 **[ESP32 CAM Controller](https://github.com/SeeFlushFlush64/Par-Receiver-ESP32-CAM)**
 > **Warning**: I have deleted my `firebase_options.dart` and `google_services.json` files as they contain sensitive information (secrets). These files are required for the application to function properly.
 
 Here is an [Audio-Visual Presentation](https://drive.google.com/file/d/1YCKJfx-oJFWOlZKkQbCbiCAsmtDB7QLt/view?usp=sharing) showing how the Par-Receiver Machine and the app work together.
